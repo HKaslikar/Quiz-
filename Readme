@@ -1,0 +1,41 @@
+# Interactive Quiz Page
+
+**Author:** Harsha Kaslikar
+
+This is a simple interactive quiz page built using HTML, CSS, and JavaScript. Users can answer multiple-choice questions and receive immediate feedback on their answers. The quiz keeps track of the user's score and provides a final score when the quiz is completed.
+
+## Features
+
+- Multiple-choice questions with four answer options each.
+- Immediate feedback on whether the selected answer is correct or incorrect.
+- Keeps track of the user's score.
+- Navigation through questions using the "Next" button.
+- Displays the final score when the user completes the quiz.
+- Option to restart the quiz.
+- Optional timer to limit the time for answering each question.
+- Stylish and responsive design.
+
+## Usage
+
+1. Clone this repository to your local machine or download the source code.
+
+2. Open the `index.html` file in your web browser to start the quiz.
+
+3. Answer the questions by selecting one of the provided options and click the "Submit" button to check your answer.
+
+4. Click the "Next" button to move on to the next question.
+
+5. After completing all the questions, your final score will be displayed, and you have the option to restart the quiz.
+
+
+## Customization
+
+You can customize the quiz by modifying the following files:
+
+- `index.html`: Update the questions, answer options, and correct answers as needed.
+- `styles.css`: Modify the CSS to change the styling and layout of the quiz page.
+- `script.js`: Customize the JavaScript code to add more questions or change the behavior of the quiz.
+
+Feel free to add your own questions and make the quiz more engaging.
+
+
